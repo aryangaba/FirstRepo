@@ -8,7 +8,7 @@ int a,b;
 cout<<"\nThis program can solve a pair of linear equations in two variables.\nDo you want to start?\nPress 1 to start and 0 to stop ";
 cin>>a;
 if(a==1)
-{
+{ //hello
 cout<<"\nNote that both the equations should be of the form ax+by+c=0.";
 next:
 cout<<"\nEnter the values of a1,b1,c1 which are the coefficient of x,coefficient of y and constant of Equation 1 respectively. ";
